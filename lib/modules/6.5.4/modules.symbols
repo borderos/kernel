@@ -1,0 +1,21 @@
+# Aliases for symbols, used by symbol_request().
+alias symbol:mqprio_qopt_reconstruct sch_mqprio_lib
+alias symbol:crypto_sha512_update sha512_generic
+alias symbol:sha224_final libsha256
+alias symbol:tap_del_queues tap
+alias symbol:mqprio_validate_qopt sch_mqprio_lib
+alias symbol:tap_free_minor tap
+alias symbol:tap_get_minor tap
+alias symbol:sha256_update libsha256
+alias symbol:psample_group_take psample
+alias symbol:tap_handle_frame tap
+alias symbol:psample_group_get psample
+alias symbol:tap_destroy_cdev tap
+alias symbol:psample_group_put psample
+alias symbol:crypto_sha256_update sha256_generic
+alias symbol:tap_queue_resize tap
+alias symbol:devm_hwrng_register rng_core
+alias symbol:sha256_final libsha256
+alias symbol:psample_sample_packet psample
+alias symbol:tap_create_cdev tap
+alias symbol:mqprio_fp_to_offload sch_mqprio_lib
